@@ -1,0 +1,242 @@
+{
+    "Chennai": {
+      "location": "Coastal",
+      "primary_source": "Groundwater, Desalination plants",
+      "secondary_source": "Kosasthalaiyar"
+    },
+    "Coimbatore": {
+      "location": "Inland",
+      "primary_source": "Noyyal",
+      "secondary_source": "Cauvery"
+    },
+    "Madurai": {
+      "location": "Inland",
+      "primary_source": "Vaigai",
+      "secondary_source": "Cauvery"
+    },
+    "Tiruchirappalli": {
+      "location": "Inland",
+      "primary_source": "Cauvery",
+      "secondary_source": "Coleroon"
+    },
+    "Salem": {
+      "location": "Inland",
+      "primary_source": "Cauvery River",
+      "secondary_source": "Mettur"
+    },
+    "Tirunelveli": {
+      "location": "Inland",
+      "primary_source": "Thamirabarani",
+      "secondary_source": "Manimutharu"
+    },
+    "Erode": {
+      "location": "Inland",
+      "primary_source": "Bhavani",
+      "secondary_source": "Cauvery"
+    },
+    "Vellore": {
+      "location": "Inland",
+      "primary_source": "Palar",
+      "secondary_source": "Ponnaiyar"
+    },
+    "Thoothukudi": {
+      "location": "Coastal",
+      "primary_source": "Kallar",
+      "secondary_source": "NA"
+    },
+    "Kanniyakumari": {
+      "location": "Coastal",
+      "primary_source": "Thamirabarani",
+      "secondary_source": "Pazhayar"
+    },
+    "Thanjavur": {
+      "location": "Inland",
+      "primary_source": "Cauvery",
+      "secondary_source": "Coleroon"
+    },
+    "Namakkal": {
+      "location": "Inland",
+      "primary_source": "Cauvery",
+      "secondary_source": "Bhavani"
+    },
+    "Chengalpattu": {
+      "location": "Coastal",
+      "primary_source": "Adayar",
+      "secondary_source": "Ongur"
+    },
+    "Nagapattinam": {
+      "location": "Coastal",
+      "primary_source": "Coleroon",
+      "secondary_source": "Cauvery"
+    },
+    "Dindigul": {
+      "location": "Inland",
+      "primary_source": "Vaigai",
+      "secondary_source": "Cauvery"
+    },
+    "Ramanathapuram": {
+      "location": "Coastal",
+      "primary_source": "Vaigai",
+      "secondary_source": "GroundWater"
+    },
+    "Krishnagiri": {
+      "location": "Inland",
+      "primary_source": "Ponnaiyar",
+      "secondary_source": "Palar"  
+    },
+    "Cuddalore": {
+      "location": "Coastal",
+      "primary_source": "Gadilam",
+      "secondary_source": "Pennaiyar"
+    },
+    "Villupuram": {
+      "location": "Coastal",
+      "primary_source": "Gadilam",
+      "secondary_source": "NA"
+    },
+    "Tiruvannamalai": {
+      "location": "Inland",
+      "primary_source": "Cheyyar",
+      "secondary_source": "Cauvery"  
+    },
+    "Tirupathur": {
+      "location": "Inland",
+      "primary_source": "Palar",
+      "secondary_source": "Mannar"
+    },
+    "Sivaganga": {
+      "location": "Inland",
+      "primary_source": "Vaigai",
+      "secondary_source": "Pambar"
+    },
+    "Perambalur": {
+      "location": "Inland",
+      "primary_source": "Cauvery",
+      "secondary_source": "Vellar river"
+    },
+    "Ariyalur": {
+      "location": "Inland",
+      "primary_source": "Vellar river",
+      "secondary_source": "Coleroon"
+    },
+    "Karur": {
+      "location": "Inland",
+      "primary_source": "Cauvery River",
+      "secondary_source": "Amaravathi river"
+    },
+    "Nilgiris": {
+      "location": "Inland",
+      "primary_source": "Bhavani River",
+      "secondary_source": "Moyar River"
+    },
+    "Ooty": {
+      "location": "Inland",
+      "primary_source": "Bhavani River",
+      "secondary_source": "Moyar River"
+    },
+    "Dharmapuri": {
+      "location": "Inland",
+      "primary_source": "Palar River",
+      "secondary_source": "Ponnaiyar"
+    },
+    "Tiruvarur": {
+      "location": "Inland",
+      "primary_source": "Vennar River",
+      "secondary_source": "Vettar river"
+    },
+    "Virudhunagar": {
+      "location": "Inland",
+      "primary_source": "Vaigai",
+      "secondary_source": "NA"
+    },
+    "Tenkasi": {
+      "location": "Inland",
+      "primary_source": "Vaigai River",
+      "secondary_source": "NA"
+    },
+    "Ranipet": {
+      "location": "Inland",
+      "primary_source": "Palar River",
+      "secondary_source": "Ponnai River"
+    },
+    "Tiruvallur": {
+      "location": "Coastal",
+      "primary_source": "Kosasthalaiyar",
+      "secondary_source": "Coovam"
+    },
+    "Kallakurichi": {
+      "location": "Inland",
+      "primary_source": "Manimutharu",
+      "secondary_source": "NA"
+    },
+    "Thirumangalam": {
+      "location": "Inland",
+      "primary_source": "Vaigai",
+      "secondary_source": "Cauvery River"
+    },
+    "Usilampatti": {
+      "location": "Inland",
+      "primary_source": "Vaigai",
+      "secondary_source": "Uppar river"
+    },
+    "Lalgudi": {
+      "location": "Inland",
+      "primary_source": "Cauvery River",
+      "secondary_source": "Coleroon"
+    },
+    "Thuraiyur": {
+      "location": "Inland",
+      "primary_source": "Coleroon",
+      "secondary_source": "NA"
+    },
+    "Mettur": {
+      "location": "Inland",
+      "primary_source": "Cauvery River",
+      "secondary_source": "Mettur"
+    },
+    "Attur": {
+      "location": "Inland",
+      "primary_source": "Cauvery",
+      "secondary_source": "NA"
+    },
+    "Omalur": {
+      "location": "Inland",
+      "primary_source": "Mettur",
+      "secondary_source": "Thirumanimuthar"
+    },
+    "Palayamkottai": {
+      "location": "Inland",
+      "primary_source": "Thamirabarani",
+      "secondary_source": "NA"
+    },
+    "Nanguneri": {
+      "location": "Inland",
+      "primary_source": "Thamirabarani",
+      "secondary_source": "NA"
+    },
+    "Bhavani": {
+      "location": "Inland",
+      "primary_source": "Bhavani River",
+      "secondary_source": "Cauvery River"
+    },
+    "Gobichettipalayam": {
+      "location": "Inland",
+      "primary_source": "Bhavani River",
+      "secondary_source": "Cauvery River"
+    },
+    "Arakkonam": {
+      "location": "Inland",
+      "primary_source": "Palar River",
+      "secondary_source": "NA"
+    },
+    "Gudiyatham": {
+      "location": "Inland",
+      "primary_source": "Palar River",
+      "secondary_source": "NA"
+    },
+    "Kovilpatti": {
+      "location": "Inland",
+      "primary_source": "Vaigai River",
+      "secondary_source": "Pambar River"
+    }
+  }

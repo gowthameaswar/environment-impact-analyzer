@@ -1,0 +1,389 @@
+{
+    "Chennai": {
+        "location": "Coastal",
+        "primary_source": "Groundwater, Desalination plants",
+        "secondary_source": "Kosasthalaiyar",
+        "primary_source_distance": null,
+        "secondary_source_distance": 22.540478018938636,
+        "minimum distance": "22.540478018938636 (Kosasthalaiyar)"
+    },
+    "Coimbatore": {
+        "location": "Inland",
+        "primary_source": "Noyyal",
+        "secondary_source": "Cauvery",
+        "primary_source_distance": 41.26690226312544,
+        "secondary_source_distance": 308.39820517784295,
+        "minimum distance": "41.26690226312544 (Noyyal)"
+    },
+    "Madurai": {
+        "location": "Inland",
+        "primary_source": "Vaigai",
+        "secondary_source": "Cauvery",
+        "primary_source_distance": 21.6777895717388,
+        "secondary_source_distance": 227.20213093924437,
+        "minimum distance": "21.6777895717388 (Vaigai)"
+    },
+    "Tiruchirappalli": {
+        "location": "Inland",
+        "primary_source": "Cauvery",
+        "secondary_source": "Coleroon",
+        "primary_source_distance": 125.54838866975349,
+        "secondary_source_distance": 7.249756048989563,
+        "minimum distance": "7.249756048989563 (Coleroon)"
+    },
+    "Salem": {
+        "location": "Inland",
+        "primary_source": "Cauvery River",
+        "secondary_source": "Mettur",
+        "primary_source_distance": 204.598190990228,
+        "secondary_source_distance": 51.472877055256,
+        "minimum distance": "51.472877055256 (Mettur)"
+    },
+    "Tirunelveli": {
+        "location": "Inland",
+        "primary_source": "Thamirabarani",
+        "secondary_source": "Manimutharu",
+        "primary_source_distance": 22.89498361975222,
+        "secondary_source_distance": 33.7254475100409,
+        "minimum distance": "22.89498361975222 (Thamirabarani)"
+    },
+    "Erode": {
+        "location": "Inland",
+        "primary_source": "Bhavani",
+        "secondary_source": "Cauvery",
+        "primary_source_distance": 103.69104063324006,
+        "secondary_source_distance": 225.16894614215926,
+        "minimum distance": "103.69104063324006 (Bhavani)"
+    },
+    "Vellore": {
+        "location": "Inland",
+        "primary_source": "Palar",
+        "secondary_source": "Ponnaiyar",
+        "primary_source_distance": 15.032875732340553,
+        "secondary_source_distance": 135.2839105481585,
+        "minimum distance": "15.032875732340553 (Palar)"
+    },
+    "Thoothukudi": {
+        "location": "Coastal",
+        "primary_source": "Kallar",
+        "secondary_source": "NA",
+        "primary_source_distance": 156.54422159852555,
+        "secondary_source_distance": null,
+        "minimum distance": "156.54422159852555 (Kallar)"
+    },
+    "Kanniyakumari": {
+        "location": "Coastal",
+        "primary_source": "Thamirabarani",
+        "secondary_source": "Pazhayar",
+        "primary_source_distance": 54.47677319980586,
+        "secondary_source_distance": 14.31387614336605,
+        "minimum distance": "14.31387614336605 (Pazhayar)"
+    },
+    "Thanjavur": {
+        "location": "Inland",
+        "primary_source": "Cauvery",
+        "secondary_source": "Coleroon",
+        "primary_source_distance": 81.00569963959055,
+        "secondary_source_distance": 48.21652201974134,
+        "minimum distance": "48.21652201974134 (Coleroon)"
+    },
+    "Namakkal": {
+        "location": "Inland",
+        "primary_source": "Cauvery",
+        "secondary_source": "Bhavani",
+        "primary_source_distance": 177.03489241952906,
+        "secondary_source_distance": 78.15588203407944,
+        "minimum distance": "78.15588203407944 (Bhavani)"
+    },
+    "Chengalpattu": {
+        "location": "Coastal",
+        "primary_source": "Adayar",
+        "secondary_source": "Ongur",
+        "primary_source_distance": 34.34368401251946,
+        "secondary_source_distance": 45.296755909599526,
+        "minimum distance": "34.34368401251946 (Adayar)"
+    },
+    "Nagapattinam": {
+        "location": "Coastal",
+        "primary_source": "Coleroon",
+        "secondary_source": "Cauvery",
+        "primary_source_distance": 75.61634749553579,
+        "secondary_source_distance": 238.338360063312564,
+        "minimum distance": "75.61634749553579 (Coleroon)"
+    },
+    "Dindigul": {
+        "location": "Inland",
+        "primary_source": "Vaigai",
+        "secondary_source": "Cauvery",
+        "primary_source_distance": 378.7217378615103,
+        "secondary_source_distance": 208.2424805260696,
+        "minimum distance": "208.2424805260696 (Cauvery)"
+    },
+    "Ramanathapuram": {
+        "location": "Coastal",
+        "primary_source": "Vaigai",
+        "secondary_source": "GroundWater",
+        "primary_source_distance": 431.209359891801,
+        "secondary_source_distance": null,
+        "minimum distance": "431.209359891801 (Vaigai)"
+    },
+    "Krishnagiri": {
+        "location": "Inland",
+        "primary_source": "Ponnaiyar",
+        "secondary_source": "Palar",
+        "primary_source_distance": 74.89800432221853,
+        "secondary_source_distance": 91.32317810063127,
+        "minimum distance": "74.89800432221853 (Ponnaiyar)"
+    },
+    "Cuddalore": {
+        "location": "Coastal",
+        "primary_source": "Gadilam",
+        "secondary_source": "Pennaiyar",
+        "primary_source_distance": 2.244356413896954,
+        "secondary_source_distance": 3.1811604947418095,
+        "minimum distance": "2.244356413896954 (Gadilam)"
+    },
+    "Villupuram": {
+        "location": "Coastal",
+        "primary_source": "Gadilam",
+        "secondary_source": "NA",
+        "primary_source_distance": 33.150991404407925,
+        "secondary_source_distance": null,
+        "minimum distance": "33.150991404407925 (Gadilam)"
+    },
+    "Tiruvannamalai": {
+        "location": "Inland",
+        "primary_source": "Cheyyar",
+        "secondary_source": "Cauvery",
+        "primary_source_distance": 66.7465923272935,
+        "secondary_source_distance": 142.20895471404606,
+        "minimum distance": "66.7465923272935 (Cheyyar)"
+    },
+    "Tirupathur": {
+        "location": "Inland",
+        "primary_source": "Palar",
+        "secondary_source": "Mannar",
+        "primary_source_distance": 67.78940354409615,
+        "secondary_source_distance": 298.2933353310927,
+        "minimum distance": "67.78940354409615 (Palar)"
+    },
+    "Sivaganga": {
+        "location": "Inland",
+        "primary_source": "Vaigai",
+        "secondary_source": "Pambar",
+        "primary_source_distance": 29.1003593773399,
+        "secondary_source_distance": 160.14195580190284,
+        "minimum distance": "29.1003593773399 (Vaigai)"
+    },
+    "Perambalur": {
+        "location": "Inland",
+        "primary_source": "Cauvery",
+        "secondary_source": "Vellar river",
+        "primary_source_distance": 105.56746730430073,
+        "secondary_source_distance": 48.151097226607114,
+        "minimum distance": "48.151097226607114 (Vellar river)"
+    },
+    "Ariyalur": {
+        "location": "Inland",
+        "primary_source": "Vellar river",
+        "secondary_source": "Coleroon",
+        "primary_source_distance": 36.91714823337148,
+        "secondary_source_distance": 50.60364443912294,
+        "minimum distance": "36.91714823337148 (Vellar river)"
+    },
+    "Karur": {
+        "location": "Inland",
+        "primary_source": "Cauvery River",
+        "secondary_source": "Amaravathi river",
+        "primary_source_distance": 186.97970837881823,
+        "secondary_source_distance": 53.054835082175245,
+        "minimum distance": "53.054835082175245 (Amaravathi river)"
+    },
+    "Nilgiris": {
+        "location": "Inland",
+        "primary_source": "Bhavani River",
+        "secondary_source": "Moyar River",
+        "primary_source_distance": 69.7145519313271,
+        "secondary_source_distance": 24.56591113031413,
+        "minimum distance": "24.56591113031413 (Moyar River)"
+    },
+    "Ooty": {
+        "location": "Inland",
+        "primary_source": "Bhavani River",
+        "secondary_source": "Moyar River",
+        "primary_source_distance": 69.93067667307824,
+        "secondary_source_distance": 24.057291219006782,
+        "minimum distance": "24.057291219006782 (Moyar River)"
+    },
+    "Dharmapuri": {
+        "location": "Inland",
+        "primary_source": "Palar River",
+        "secondary_source": "Ponnaiyar",
+        "primary_source_distance": 202.80553434024267,
+        "secondary_source_distance": 113.52810920959818,
+        "minimum distance": "113.52810920959818 (Ponnaiyar)"
+    },
+    "Tiruvarur": {
+        "location": "Inland",
+        "primary_source": "Vennar River",
+        "secondary_source": "Vettar river",
+        "primary_source_distance": 11.510936376565857,
+        "secondary_source_distance": 44.636062562937006,
+        "minimum distance": "11.510936376565857 (Vennar River)"
+    },
+    "Virudhunagar": {
+        "location": "Inland",
+        "primary_source": "Vaigai",
+        "secondary_source": "NA",
+        "primary_source_distance": 463.297147664571,
+        "secondary_source_distance": null,
+        "minimum distance": "463.297147664571 (Vaigai)"
+    },
+    "Tenkasi": {
+        "location": "Inland",
+        "primary_source": "Vaigai River",
+        "secondary_source": "NA",
+        "primary_source_distance": 130.18060336050505,
+        "secondary_source_distance": null,
+        "minimum distance":"130.18060336050505 (Vaigai River)"
+    },
+    "Ranipet": {
+        "location": "Inland",
+        "primary_source": "Palar River",
+        "secondary_source": "Ponnai River",
+        "primary_source_distance": 70.09242888633982,
+        "secondary_source_distance": 24.208128651847606,
+        "minimum distance": "24.208128651847606 (Ponnai River)"
+    },
+    "Tiruvallur": {
+        "location": "Coastal",
+        "primary_source": "Kosasthalaiyar",
+        "secondary_source": "Coovam",
+        "primary_source_distance": 30.525436386255585,
+        "secondary_source_distance": 29.08577266368583,
+        "minimum distance": "29.08577266368583 (Coovam)"
+    },
+    "Kallakurichi": {
+        "location": "Inland",
+        "primary_source": "Manimutharu",
+        "secondary_source": "NA",
+        "primary_source_distance": 381.3283880948186,
+        "secondary_source_distance": null,
+        "minimum distance": "381.3283880948186 (Manimutharu)"
+    },
+    "Thirumangalam": {
+        "location": "Inland",
+        "primary_source": "Vaigai",
+        "secondary_source": "Cauvery River",
+        "primary_source_distance": 434.8448772476634,
+        "secondary_source_distance": 251.87485997156952,
+        "minimum distance": "251.87485997156952 (Cauvery River)"
+    },
+    "Usilampatti": {
+        "location": "Inland",
+        "primary_source": "Vaigai",
+        "secondary_source": "Uppar river",
+        "primary_source_distance": 426.5376161229106,
+        "secondary_source_distance": 80.37024608780831,
+        "minimum distance": "80.37024608780831 (Uppar river)"
+    },
+    "Lalgudi": {
+        "location": "Inland",
+        "primary_source": "Cauvery River",
+        "secondary_source": "Coleroon",
+        "primary_source_distance": 101.89171320870268,
+        "secondary_source_distance": 20.967243438366012,
+        "minimum distance": "20.967243438366012 (Coleroon)"
+    },
+    "Thuraiyur": {
+        "location": "Inland",
+        "primary_source": "Coleroon",
+        "secondary_source": "NA",
+        "primary_source_distance": 42.88329166281535,
+        "secondary_source_distance": null,
+        "minimum distance": "42.88329166281535 (Coleroon)"
+    },
+    "Mettur": {
+        "location": "Inland",
+        "primary_source": "Cauvery River",
+        "secondary_source": "Mettur",
+        "primary_source_distance": 220.89738743531882,
+        "secondary_source_distance": 0.0,
+        "minimum distance": "0.0 (Mettur)"
+    },
+    "Attur": {
+        "location": "Inland",
+        "primary_source": "Cauvery",
+        "secondary_source": "NA",
+        "primary_source_distance": 147.59186256425266,
+        "secondary_source_distance": null,
+        "minimum distance": "147.59186256425266 (Cauvery)"
+    },
+    "Omalur": {
+        "location": "Inland",
+        "primary_source": "Mettur",
+        "secondary_source": "Thirumanimuthar",
+        "primary_source_distance": 22.21405969789735,
+        "secondary_source_distance": 69.64070172778436,
+        "minimum distance": "22.21405969789735 (Mettur)"
+    },
+    "Palayamkottai": {
+        "location": "Inland",
+        "primary_source": "Thamirabarani",
+        "secondary_source": "NA",
+        "primary_source_distance": 21.512761527273803,
+        "secondary_source_distance": null,
+        "minimum distance": "21.512761527273803 (Thamirabarani)"
+    },
+    "Nanguneri": {
+        "location": "Inland",
+        "primary_source": "Thamirabarani",
+        "secondary_source": "NA",
+        "primary_source_distance": 15.745820126097014,
+        "secondary_source_distance": null,
+        "minimum distance": "15.745820126097014 (Thamirabarani)"
+    },
+    "Bhavani": {
+        "location": "Inland",
+        "primary_source": "Bhavani River",
+        "secondary_source": "Cauvery River",
+        "primary_source_distance": 66.5437202393329,
+        "secondary_source_distance": 327.6686309383909,
+        "minimum distance": "66.5437202393329 (Bhavani River)"
+    },
+    "Gobichettipalayam": {
+        "location": "Inland",
+        "primary_source": "Bhavani River",
+        "secondary_source": "Cauvery River",
+        "primary_source_distance": 11.691857585492095,
+        "secondary_source_distance": 257.50301487088564,
+        "minimum distance": "11.691857585492095 (Bhavani River)"
+    },
+    "Arakkonam": {
+        "location": "Inland",
+        "primary_source": "Palar River",
+        "secondary_source": "NA",
+        "primary_source_distance": 49.3889907417632,
+        "secondary_source_distance": null,
+        "minimum distance": "49.3889907417632 (Palar River)"
+    },
+    "Gudiyatham": {
+        "location": "Inland",
+        "primary_source": "Palar River",
+        "secondary_source": "NA",
+        "primary_source_distance": 130.24042768928308,
+        "secondary_source_distance": null,
+        "minimum distance": "130.24042768928308 (Palar River)"
+    },
+    "Kovilpatti": {
+        "location": "Inland",
+        "primary_source": "Vaigai River",
+        "secondary_source": "Pambar River",
+        "primary_source_distance": 98.30604342692504,
+        "secondary_source_distance": 165.33445001744042,
+        "minimum distance": "98.30604342692504 (Vaigai River)"
+    }
+}
+
+
+       

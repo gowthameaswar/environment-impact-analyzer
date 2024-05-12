@@ -1,0 +1,443 @@
+{
+    "Arakkonam": {
+        "temperature_mean": 26.085126615038106,
+        "temperature_max": 32.714015324910484,
+        "wind_speed_mean": 7.103027367124371,
+        "wind_speed_max": 12.55853162092321,
+        "relative_humidity_mean": 75.41661026898552,
+        "relative_humidity_max": 98.08258206236596,
+        "dew_point_max": 26.095188477460077
+    },
+    "Ariyalur": {
+        "temperature_mean": 28.164371602675494,
+        "temperature_max": 34.69645552541695,
+        "wind_speed_mean": 7.374914178661272,
+        "wind_speed_max": 12.260343102847829,
+        "relative_humidity_mean": 64.38115363027535,
+        "relative_humidity_max": 91.96791510488472,
+        "dew_point_max": 27.022608289531632
+    },
+    "Attur": {
+        "temperature_mean": 27.50553546232336,
+        "temperature_max": 34.12434308669146,
+        "wind_speed_mean": 5.491982039283304,
+        "wind_speed_max": 9.902827721016079,
+        "relative_humidity_mean": 60.95284069285673,
+        "relative_humidity_max": 90.84975358551624,
+        "dew_point_max": 25.94851183423809
+    },
+    "Bhavani": {
+        "temperature_mean": 27.760094100353765,
+        "temperature_max": 33.48517713359758,
+        "wind_speed_mean": 6.006076018015544,
+        "wind_speed_max": 9.86289561028574,
+        "relative_humidity_mean": 58.88892461739334,
+        "relative_humidity_max": 83.40988099341298,
+        "dew_point_max": 24.590569140864353
+    },
+    "Chengalpattu": {
+        "temperature_mean": 26.416607912848978,
+        "temperature_max": 31.16739460066253,
+        "wind_speed_mean": 8.092448552449545,
+        "wind_speed_max": 13.377733043595857,
+        "relative_humidity_mean": 78.11739947749119,
+        "relative_humidity_max": 96.22919030283012,
+        "dew_point_max": 26.068626029818667
+    },
+    "Chennai": {
+        "temperature_mean": 26.531299628463447,
+        "temperature_max": 31.33931941612094,
+        "wind_speed_mean": 10.039467895732207,
+        "wind_speed_max": 14.668326172174192,
+        "relative_humidity_mean": 77.10283526252297,
+        "relative_humidity_max": 95.94522408878102,
+        "dew_point_max": 26.131970648672066
+    },
+    "Coimbatore": {
+        "temperature_mean": 27.148929408952302,
+        "temperature_max": 33.857138315836586,
+        "wind_speed_mean": 5.437137748680863,
+        "wind_speed_max": 9.2516427601085,
+        "relative_humidity_mean": 54.56315261242437,
+        "relative_humidity_max": 85.32616693833295,
+        "dew_point_max": 24.441383848003312
+    },
+    "Cuddalore": {
+        "temperature_mean": 27.183292949900906,
+        "temperature_max": 30.28890516243729,
+        "wind_speed_mean": 11.071920189203,
+        "wind_speed_max": 15.442578652325798,
+        "relative_humidity_mean": 72.95787781360103,
+        "relative_humidity_max": 87.7773391125249,
+        "dew_point_max": 24.83555232777315
+    },
+    "Dharmapuri": {
+        "temperature_mean": 25.935413510191676,
+        "temperature_max": 32.48236858143526,
+        "wind_speed_mean": 5.045202937780642,
+        "wind_speed_max": 9.122823687160716,
+        "relative_humidity_mean": 58.82184922461416,
+        "relative_humidity_max": 87.24334357766544,
+        "dew_point_max": 23.68247189241297
+    },
+    "Dindigul": {
+        "temperature_mean": 27.083126180312213,
+        "temperature_max": 33.15699573591644,
+        "wind_speed_mean": 4.463864948235306,
+        "wind_speed_max": 8.061525452370738,
+        "relative_humidity_mean": 64.77038170309628,
+        "relative_humidity_max": 91.5086067050111,
+        "dew_point_max": 25.695661956188726
+    },
+    "Erode": {
+        "temperature_mean": 29.271865283741672,
+        "temperature_max": 35.58560603272681,
+        "wind_speed_mean": 5.926925196367152,
+        "wind_speed_max": 10.559254842645982,
+        "relative_humidity_mean": 51.26609428256166,
+        "relative_humidity_max": 79.92019114774816,
+        "dew_point_max": 25.151855094760073
+    },
+    "Gobichettipalayam": {
+        "temperature_mean": 28.873483209049,
+        "temperature_max": 34.997080971212945,
+        "wind_speed_mean": 4.676201815698661,
+        "wind_speed_max": 8.423852883133234,
+        "relative_humidity_mean": 53.07776021022423,
+        "relative_humidity_max": 78.37348668715534,
+        "dew_point_max": 24.574555789723117
+    },
+    "Gudiyatham": {
+        "temperature_mean": 25.59150744419472,
+        "temperature_max": 32.616020501828665,
+        "wind_speed_mean": 6.105061933106067,
+        "wind_speed_max": 11.223647968441833,
+        "relative_humidity_mean": 64.99005014756146,
+        "relative_humidity_max": 95.58507343367035,
+        "dew_point_max": 24.807906281714345
+    },
+    "Kallakurichi": {
+        "temperature_mean": 27.404540529438094,
+        "temperature_max": 34.28669443317488,
+        "wind_speed_mean": 6.359172970640893,
+        "wind_speed_max": 10.965067938262342,
+        "relative_humidity_mean": 64.35149697696461,
+        "relative_humidity_max": 92.2422192143459,
+        "dew_point_max": 26.182674295762006
+    },
+    "Kanniyakumari": {
+        "temperature_mean": 28.040737189498603,
+        "temperature_max": 31.85371462504069,
+        "wind_speed_mean": 11.213357888016047,
+        "wind_speed_max": 15.472058773040771,
+        "relative_humidity_mean": 67.50997431137982,
+        "relative_humidity_max": 84.56413373760148,
+        "dew_point_max": 25.379263185987284
+    },
+    "Karur": {
+        "temperature_mean": 29.220797258264877,
+        "temperature_max": 35.9094529245414,
+        "wind_speed_mean": 7.214145090065751,
+        "wind_speed_max": 12.860144708670822,
+        "relative_humidity_mean": 55.686726140040975,
+        "relative_humidity_max": 87.28792272829541,
+        "dew_point_max": 26.818147060917873
+    },
+    "Kovilpatti": {
+        "temperature_mean": 28.847304288078757,
+        "temperature_max": 35.6743532816569,
+        "wind_speed_mean": 6.261754779254689,
+        "wind_speed_max": 11.326055190142464,
+        "relative_humidity_mean": 59.24367867264093,
+        "relative_humidity_max": 87.67546515371285,
+        "dew_point_max": 26.81603577557732
+    },
+    "Krishnagiri": {
+        "temperature_mean": 26.143549152449065,
+        "temperature_max": 33.13869079889036,
+        "wind_speed_mean": 5.81038994882621,
+        "wind_speed_max": 10.623777885063022,
+        "relative_humidity_mean": 59.7552090065152,
+        "relative_humidity_max": 91.14388933368758,
+        "dew_point_max": 24.54332067452225
+    },
+    "Lalgudi": {
+        "temperature_mean": 28.157954608692844,
+        "temperature_max": 34.59246295106177,
+        "wind_speed_mean": 6.716304620107015,
+        "wind_speed_max": 11.667405895158357,
+        "relative_humidity_mean": 63.3396073883655,
+        "relative_humidity_max": 90.60807755414177,
+        "dew_point_max": 26.70315106709798
+    },
+    "Madurai": {
+        "temperature_mean": 28.486282273834828,
+        "temperature_max": 34.89216542711445,
+        "wind_speed_mean": 4.963228323880364,
+        "wind_speed_max": 9.592497002844716,
+        "relative_humidity_mean": 61.09206158507104,
+        "relative_humidity_max": 88.20444204293045,
+        "dew_point_max": 26.470396602855008
+    },
+    "Mettur": {
+        "temperature_mean": 28.27784549488741,
+        "temperature_max": 34.674368951834886,
+        "wind_speed_mean": 4.326338688532512,
+        "wind_speed_max": 7.245101465898402,
+        "relative_humidity_mean": 54.23222545548981,
+        "relative_humidity_max": 83.11294795017616,
+        "dew_point_max": 24.978393292894552
+    },
+    "Nagapattinam": {
+        "temperature_mean": 27.494325376024435,
+        "temperature_max": 29.833945592244465,
+        "wind_speed_mean": 11.261736645418054,
+        "wind_speed_max": 15.155025893566656,
+        "relative_humidity_mean": 72.1183344523112,
+        "relative_humidity_max": 83.80436661664177,
+        "dew_point_max": 24.429899627087163
+    },
+    "Namakkal": {
+        "temperature_mean": 28.741467307595645,
+        "temperature_max": 35.17749558243097,
+        "wind_speed_mean": 4.961621948316986,
+        "wind_speed_max": 9.065717809340534,
+        "relative_humidity_mean": 55.80313716215246,
+        "relative_humidity_max": 84.60077996347465,
+        "dew_point_max": 25.80091480180329
+    },
+    "Nanguneri": {
+        "temperature_mean": 28.09083860060748,
+        "temperature_max": 34.94599271288105,
+        "wind_speed_mean": 7.580347687590356,
+        "wind_speed_max": 12.227967131371592,
+        "relative_humidity_mean": 65.78336064955768,
+        "relative_humidity_max": 94.05378244437424,
+        "dew_point_max": 27.287178525737687
+    },
+    "Nilgiris": {
+        "temperature_mean": 26.21180455824908,
+        "temperature_max": 31.184661117254517,
+        "wind_speed_mean": 8.670319865731631,
+        "wind_speed_max": 14.070312724393958,
+        "relative_humidity_mean": 79.03195714015587,
+        "relative_humidity_max": 97.0584893320121,
+        "dew_point_max": 25.976490544337853
+    },
+    "Omalur": {
+        "temperature_mean": 28.04651387532552,
+        "temperature_max": 34.39472460279278,
+        "wind_speed_mean": 4.563467301574408,
+        "wind_speed_max": 7.81720027736589,
+        "relative_humidity_mean": 54.74619510127049,
+        "relative_humidity_max": 82.40151932660271,
+        "dew_point_max": 24.680404102101047
+    },
+    "Ooty": {
+        "temperature_mean": 16.557299670051126,
+        "temperature_max": 22.816283431707642,
+        "wind_speed_mean": 4.010506513071995,
+        "wind_speed_max": 6.924564043680827,
+        "relative_humidity_mean": 67.95043900433708,
+        "relative_humidity_max": 91.65110704010608,
+        "dew_point_max": 15.483051468344296
+    },
+    "Palayamkottai": {
+        "temperature_mean": 28.288435169294768,
+        "temperature_max": 34.52903915854061,
+        "wind_speed_mean": 6.297857569713218,
+        "wind_speed_max": 11.271395879633287,
+        "relative_humidity_mean": 62.8660504210229,
+        "relative_humidity_max": 89.41845867680568,
+        "dew_point_max": 26.6637996598786
+    },
+    "Perambalur": {
+        "temperature_mean": 27.99057960510254,
+        "temperature_max": 34.658840516034296,
+        "wind_speed_mean": 6.262572353961421,
+        "wind_speed_max": 10.93045961155611,
+        "relative_humidity_mean": 61.77333951463886,
+        "relative_humidity_max": 89.82379165350223,
+        "dew_point_max": 26.241634368896484
+    },
+    "Ramanathapuram": {
+        "temperature_mean": 28.395071927238913,
+        "temperature_max": 34.73559918123133,
+        "wind_speed_mean": 7.579594144634172,
+        "wind_speed_max": 12.299787109973384,
+        "relative_humidity_mean": 67.12060576794194,
+        "relative_humidity_max": 92.21686643712661,
+        "dew_point_max": 27.36664270887188
+    },
+    "Ranipet": {
+        "temperature_mean": 26.29517084009507,
+        "temperature_max": 33.140108183318496,
+        "wind_speed_mean": 6.519346975812725,
+        "wind_speed_max": 11.680881425446154,
+        "relative_humidity_mean": 71.29844732845531,
+        "relative_humidity_max": 97.71300461713005,
+        "dew_point_max": 26.070441563924152
+    },
+    "Salem": {
+        "temperature_mean": 5.505213105211071,
+        "temperature_max": 9.5852576435781,
+        "wind_speed_mean": 10.152724443697462,
+        "wind_speed_max": 16.48204204147937,
+        "relative_humidity_mean": 84.0174419926662,
+        "relative_humidity_max": 91.59358155493642,
+        "dew_point_max": 4.662891594802632
+    },
+    "Sivaganga": {
+        "temperature_mean": 28.02714568493413,
+        "temperature_max": 34.472196167590575,
+        "wind_speed_mean": 7.47858860913445,
+        "wind_speed_max": 12.506105348175646,
+        "relative_humidity_mean": 66.59409631467334,
+        "relative_humidity_max": 92.34605617149204,
+        "dew_point_max": 27.032150754741593
+    },
+    "Tenkasi": {
+        "temperature_mean": 28.226745418473786,
+        "temperature_max": 34.916030808991074,
+        "wind_speed_mean": 4.14558006735409,
+        "wind_speed_max": 8.22616852498522,
+        "relative_humidity_mean": 58.94200433469286,
+        "relative_humidity_max": 88.69025989607269,
+        "dew_point_max": 26.415022644342162
+    },
+    "Thanjavur": {
+        "temperature_mean": 27.938301946602614,
+        "temperature_max": 34.202883739097445,
+        "wind_speed_mean": 7.108088128706989,
+        "wind_speed_max": 11.73110179340138,
+        "relative_humidity_mean": 66.00885338876762,
+        "relative_humidity_max": 92.15540328680301,
+        "dew_point_max": 26.82341874814501
+    },
+    "Thirumangalam": {
+        "temperature_mean": 28.939954795089424,
+        "temperature_max": 35.622800116445504,
+        "wind_speed_mean": 6.002657693975112,
+        "wind_speed_max": 10.899472629322725,
+        "relative_humidity_mean": 58.00019350238875,
+        "relative_humidity_max": 87.04411615109912,
+        "dew_point_max": 26.617251489676683
+    },
+    "Thoothukudi": {
+        "temperature_mean": 28.948962492101334,
+        "temperature_max": 32.50903122097838,
+        "wind_speed_mean": 12.655806887383555,
+        "wind_speed_max": 16.560790725782805,
+        "relative_humidity_mean": 66.33286225562001,
+        "relative_humidity_max": 85.23996764538335,
+        "dew_point_max": 26.11784594666724
+    },
+    "Thuraiyur": {
+        "temperature_mean": 28.399999281939337,
+        "temperature_max": 34.91423292721019,
+        "wind_speed_mean": 6.414220501394833,
+        "wind_speed_max": 11.687561689638624,
+        "relative_humidity_mean": 61.069971047195736,
+        "relative_humidity_max": 90.4619691138174,
+        "dew_point_max": 26.677707447725183
+    },
+    "Tiruchirappalli": {
+        "temperature_mean": 28.436452155019722,
+        "temperature_max": 35.03667865079992,
+        "wind_speed_mean": 6.92284735511331,
+        "wind_speed_max": 11.9264939252068,
+        "relative_humidity_mean": 61.19520172418333,
+        "relative_humidity_max": 89.72987006692325,
+        "dew_point_max": 26.76902370826871
+    },
+    "Tirunelveli": {
+        "temperature_mean": 28.463145237342985,
+        "temperature_max": 35.136062098484416,
+        "wind_speed_mean": 6.297857569713218,
+        "wind_speed_max": 11.271395879633287,
+        "relative_humidity_mean": 62.686979106828275,
+        "relative_humidity_max": 90.75774174110562,
+        "dew_point_max": 27.067170498417873
+    },
+    "Tirupathur": {
+        "temperature_mean": 26.480712292241115,
+        "temperature_max": 33.59160026849485,
+        "wind_speed_mean": 5.4985806708242375,
+        "wind_speed_max": 10.092629675771676,
+        "relative_humidity_mean": 60.47413971844841,
+        "relative_humidity_max": 91.76367217419194,
+        "dew_point_max": 25.104474198584462
+    },
+    "Tirupattur": {
+        "temperature_mean": 26.37671220068838,
+        "temperature_max": 33.48760013954312,
+        "wind_speed_mean": 5.4985806708242375,
+        "wind_speed_max": 10.092629675771676,
+        "relative_humidity_mean": 60.47413971844841,
+        "relative_humidity_max": 91.76367217419194,
+        "dew_point_max": 25.001576816334445
+    },
+    "Tiruvallur": {
+        "temperature_mean": 26.107725068634632,
+        "temperature_max": 32.64978842641793,
+        "wind_speed_mean": 7.47409255364362,
+        "wind_speed_max": 12.791265721414604,
+        "relative_humidity_mean": 77.31817941104664,
+        "relative_humidity_max": 98.08893121457568,
+        "dew_point_max": 26.234711216945275
+    },
+    "Tiruvannamalai": {
+        "temperature_mean": 26.64745428047928,
+        "temperature_max": 33.512539508295994,
+        "wind_speed_mean": 5.919621444215961,
+        "wind_speed_max": 10.981617834053788,
+        "relative_humidity_mean": 66.94897849887025,
+        "relative_humidity_max": 94.81145926082836,
+        "dew_point_max": 25.9957841611376
+    },
+    "Tiruvarur": {
+        "temperature_mean": 27.46100564096488,
+        "temperature_max": 32.68068751166849,
+        "wind_speed_mean": 7.596761245353549,
+        "wind_speed_max": 12.092954523423138,
+        "relative_humidity_mean": 70.29296725404029,
+        "relative_humidity_max": 92.50239159079159,
+        "dew_point_max": 26.28347494087967
+    },
+    "Usilampatti": {
+        "temperature_mean": 28.37361556408452,
+        "temperature_max": 34.521499110203166,
+        "wind_speed_mean": 4.963228323880364,
+        "wind_speed_max": 9.592497002844716,
+        "relative_humidity_mean": 58.87424857943666,
+        "relative_humidity_max": 85.49133225983265,
+        "dew_point_max": 25.565964418299057
+    },
+    "Vellore": {
+        "temperature_mean": 24.505704505770815,
+        "temperature_max": 30.997186324175665,
+        "wind_speed_mean": 4.913875944474164,
+        "wind_speed_max": 8.755372533611222,
+        "relative_humidity_mean": 68.74819265627393,
+        "relative_humidity_max": 96.39174637140012,
+        "dew_point_max": 23.93175506591797
+    },
+    "Villupuram": {
+        "temperature_mean": 27.18256041582893,
+        "temperature_max": 33.28459275937548,
+        "wind_speed_mean": 7.7880831045262955,
+        "wind_speed_max": 12.62681432798797,
+        "relative_humidity_mean": 70.3155471203374,
+        "relative_humidity_max": 93.28621568866805,
+        "dew_point_max": 26.28526055579092
+    },
+    "Virudhunagar": {
+        "temperature_mean": 28.990818210676604,
+        "temperature_max": 35.867311066272215,
+        "wind_speed_mean": 6.572572993297203,
+        "wind_speed_max": 11.76604949726778,
+        "relative_humidity_mean": 60.18053750430836,
+        "relative_humidity_max": 88.82683623070811,
+        "dew_point_max": 27.128731110516718
+    }
+}
