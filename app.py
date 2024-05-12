@@ -7,7 +7,7 @@ import google.generativeai as genai
 
 st.title("Environment Impact Analyzer🌿")
 st.write("Welcome to Environment Impact Analyzer! This app provides analysis and recommendations based on environmental data.")
-
+st.set_page_config(page_title="Environment Impact Analyzer", page_icon="🌿")
 def load_data(file_name):
     with open(file_name, 'r') as json_file:
         return json.load(json_file)
