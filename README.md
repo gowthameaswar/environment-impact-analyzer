@@ -38,3 +38,6 @@ The data is stored and managed using MongoDB 📊.
 - **Real-time Data Updates**: Stay informed with real-time updates on environmental conditions 🕒.
 - **Decision Making Support**: Facilitate collaboration and informed decision-making among stakeholders 🤝.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
