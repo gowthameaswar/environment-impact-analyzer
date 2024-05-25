@@ -1,6 +1,6 @@
----
-
 # 🌿 Environment Impact Analyzer
+
+**Deployed Link:** [Environment Impact Analyzer](https://environment-impact-analyzer.streamlit.app/)
 
 ## Overview
 
@@ -27,7 +27,7 @@ For development, the following tools and frameworks are used:
 
 - **Streamlit**: For building the user interface 🚀
 - **Python**: Backend development 🐍
-- **Gemini LLM by Google**: For providing recommendations 🌟
+- **Gemini LLM by Google**: For accessing additional environmental data 🌟
 
 The data is stored and managed using MongoDB 📊.
 
@@ -38,4 +38,3 @@ The data is stored and managed using MongoDB 📊.
 - **Real-time Data Updates**: Stay informed with real-time updates on environmental conditions 🕒.
 - **Decision Making Support**: Facilitate collaboration and informed decision-making among stakeholders 🤝.
 
----
